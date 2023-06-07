@@ -1,14 +1,10 @@
 # bitnine-coding-challenge-question1
 
 
-**Code Readme**
 This repository contains a C program that demonstrates the use of a binary tree data structure to perform mathematical calculations. The program defines various mathematical operations such as addition, subtraction, multiplication, division, absolute value, and Fibonacci sequence generation. It uses a recursive approach to evaluate the expressions provided in the binary tree structure.
 
+**Program Overview**
 
-Code Readme
-This repository contains a C program that demonstrates the use of a binary tree data structure to perform mathematical calculations. The program defines various mathematical operations such as addition, subtraction, multiplication, division, absolute value, and Fibonacci sequence generation. It uses a recursive approach to evaluate the expressions provided in the binary tree structure.
-
-Program Overview
 The program consists of the following main components:
 
 TypeTag enumeration: This enumeration defines different operation types, including ADD, SUB, MUL, DIV, ABS, FIB, and LIT. Each type corresponds to a specific mathematical operation.
@@ -27,7 +23,8 @@ main function: The main function demonstrates the usage of the binary tree struc
 
 
 
-Usage
+**Usage**
+
 To compile and run the program, follow these steps:
 
 Ensure you have a C compiler installed on your system (such as GCC).
