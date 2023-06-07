@@ -29,17 +29,17 @@ To compile and run the program, follow these steps:
 
 Ensure you have a C compiler installed on your system (such as GCC).
 
-Save the code in a file with a ".c" extension, such as "math_expression.c".
+Save the code in a file with a ".c" extension, such as "coding_challenge.c".
 
 Open a terminal or command prompt and navigate to the directory where the file is saved.
 
 Use the following command to compile the code:
 
-gcc math_expression.c -o math_expression
+```gcc coding_challenge.c -o coding_challenge```
 
 After successful compilation, run the program using the following command:
 
-./math_expression
+```./coding_challenge```
 
 
 The program will display the results of the mathematical operations calculated from the binary tree structure.
